@@ -9,8 +9,8 @@
 </p>
 
 ## 📖 Contents
-- [Datasets](#types-of-virtualization)
-- [Scientific Research](#virtualization-versus-containerization)
+- [Types of Virtualization](#types-of-virtualization)
+- [Virtualization versus Containerization](#virtualization-versus-containerization)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
